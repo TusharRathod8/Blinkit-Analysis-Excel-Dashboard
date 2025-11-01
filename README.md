@@ -19,3 +19,9 @@ Data Cleaning & Transformation o Removed inconsistencies and duplicates. o Stand
 Visualization Techniques o Donut charts for category distribution. o Bar charts for item type and location analysis. o Line chart for outlet establishment trends.
 <img width="1372" height="720" alt="Screenshot 2025-09-12 130412" src="https://github.com/user-attachments/assets/caff5057-3393-48b0-956b-98752641190c" />
 
+# 📚 What I Learned
+• How to design professional dashboards in Excel that combine multiple KPIs. • Best practices for data cleaning, summarization, and visualization. • Use of slicers and filters for interactivity. • Improving data storytelling by aligning visuals with business needs. • How to present insights in a way that supports decision-making for retail businesses.
+
+# ✅ Conclusion
+The Blinkit Sales Dashboard provided a comprehensive view of sales performance across outlets, locations, and product categories. It helped uncover which items and outlets drive revenue the most and gave valuable insights into consumer preferences (low-fat vs regular, snack foods, fruits, etc).
+
